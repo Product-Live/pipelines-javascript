@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/product-live/Pipelines-javascript/_apis/build/status/Product-Live.pipelines-javascript)](https://dev.azure.com/product-live/Pipelines-javascript/_build/latest?definitionId=4)
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
